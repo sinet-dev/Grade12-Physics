@@ -11,7 +11,7 @@
 > If you work in education, the inconvenient truth you have to face is that a self-motivated student who knows how to use the internet doesn't need a full-time teacher. _David Perell
 
 
-# Grade12-Physics      [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Grade12-Physics      [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 សារបណ្ណ
